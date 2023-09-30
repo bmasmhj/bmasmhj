@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bmasmhj&label=Profile%20views&color=0e75b6&style=flat" alt="bmasmhj" /> </p>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) </p>
+<p align="left">  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mhrznjuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhrznjuman" height="30" width="40" /></a>
+<a href="https://twitter.com/bimashmaharjaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhrznjuman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bmasmhj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bmasmhj" height="30" width="40" /></a>
-<a href="https://fb.com/mhrznjuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhrznjuman" height="30" width="40" /></a>
-<a href="https://instagram.com/juman.mhj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juman.mhj" height="30" width="40" /></a>
+<a href="https://fb.com/bmasmhj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhrznjuman" height="30" width="40" /></a>
+<a href="https://instagram.com/bimash.maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juman.mhj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
