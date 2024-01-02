@@ -19,3 +19,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bmasmhj&show_icons=true&locale=en&layout=compact" alt="bmasmhj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bmasmhj&show_icons=true&locale=en" alt="bmasmhj" /></p>
+
+<h3 align="left">My Products: </h3>
+<p><a href="https://qr.byteperks.com/" target="blank"><img align="center" src="https://cdn.byteperks.com/assets/img/favicon.png" alt="mhrznjuman" height="40" width="40" /> Quick Qr [Website + Extension ] </a> </p>
+<p><a href="https://codesnap.byteperks.com/" target="blank"><img align="center" src="https://cdn.byteperks.com/assets/img/codesnaplogo.png" alt="mhrznjuman" height="40" width="40" /> Code Snap [ Website + Extension ] </a></p>
+<p><a href="https://byteperks.github.io/youtube-bookmark/" target="blank"><img align="center" src="https://raw.githubusercontent.com/byteperks/youtube-bookmark/main/dist/img/icon-128.png" alt="mhrznjuman" height="40" width="40" /> Youtube Bookmarks [ Extension ]</a> </p>
+
+
+
