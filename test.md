@@ -1,4 +1,3 @@
- <img src="./welcome.svg" alt="">
    <p style="background-color: #d1ddef;" align="left"> <img src="https://komarev.com/ghpvc/?username=bmasmhj" alt="bmasmhj" /> </p>
    <p align="left"> </p>
    <h3 align="left">Connect with me:</h3>
