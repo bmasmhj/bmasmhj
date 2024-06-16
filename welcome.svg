@@ -165,7 +165,7 @@
         }
 
     </style>
-    <div style="display: flex; flex-direction : column; background:#d1ddef; height : 100% ; padding-bottom : 50px ">
+    <div style="display: flex; flex-direction : column; height : 100% ; padding-bottom : 50px ">
         <div>
             <div class="shape-blob "></div>
             <div class="shape-blob  one"></div>
@@ -175,42 +175,9 @@
         <div
             style="width:80%;  margin:auto; display: flex; flex-direction : column; justify-content: center; align-items: center;">
             <div class="card">
-                <h1 style="margin-bottom: 1rem;">Bimash Maharjan</h1>
-                <h3 style="margin-bottom: 0.5rem;">Frontend Developer</h3>
+                <h1 style="margin-bottom: 0.5rem;">Bimash Maharjan</h1>
+                <h3 style="margin-bottom: 0.5rem;">Just a normal guy : Frontend Developer</h3>
                 <p class="lead"><q>If you only do what you can do, you'll never be better than what you are.</q></p>
-                <div 
-                    style="display: flex; justify-content: center; align-items: center;">
-
-                    <a  href="https://bimash.com.np/assets/cv.pdf" download=""
-                        class="mx-3 btn bg-gradient-primary mt-4"> Download Resume
-                    </a>
-                    <a href="assets/cv.pdf" class="mx-3  btn bg-gradient-success mt-4">Hire Me</a>
-                </div>
-                <div style="margin-top : 15px">
-                    <h3 style="margin-bottom : 5px">Find me on </h3>
-                    <div class="mt-1 d-flex justify-content-between w-md-70">
-                        <a target="_blank" href="https://twitter.com/bimashmaharjan">
-                            <img align="center" href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhrznjuman" height="30" width="40" />
-                            
-                        </a>
-                        <a target="_blank" href="https://www.facebook.com/bmasmhj">
-                            <!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhrznjuman" height="30" width="40" /> -->
-                        </a>
-                        <a target="_blank" href="https://www.instagram.com/bimash.maharjan/">
-                            <!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhrznjuman" height="30" width="40" /> -->
-                        </a>
-                        <a target="_blank" href="https://www.youtube.com/Shangxin">
-                            <!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mhrznjuman" height="30" width="40" /> -->
-                        </a>
-                        
-                        <a target="_blank" href="https://www.linkedin.com/in/bmasmhj/">
-                             <!-- <img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bmasmhj" height="30" width="40" /> -->
-                        </a>
-                        <a target="_blank" href="https://discord.com/channels/@me/757935513264062495">
-                            <!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mhrznjuman" height="30" width="40" /> -->
-                        </a>
-                    </div>
-                </div>
             </div>
             <div class="card telivision" style="padding: 0;  background-image: linear-gradient(310deg,#141727,#3a416f); width: 100%; " >
                  <div class="telivision-inside" style=" padding: 1.5rem;">
@@ -219,7 +186,7 @@
                         <div class=" mb-5 d-flex flex-column justify-content-center align-items-center">
                             <div 
                             style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-                                <img  width="30" height="30" src="http://bimash.com.np/assets/img/skills/html5.svg" alt="" />
+                                <img  width="30" height="30" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE6ElEQVRogc2abUxTVxjHSYzxw5a4r34yc/TyMiM60KHLPsy3mNCCRTojIrqIWBxK5utMyNZNo4AxRhNfQBM3jYpumujCYkRDQqJZMjPnJ41a3dpbSlGEQhF56/Gc6i3n9J632/ZKn+QEApdz/78+95zn/5xLWhoWXpslpNoUkMoDaUxjhWpVnky0QOGAGpkAXqvl9oQLFGUAamRnwKZcSfYNQfX8hEewLAef8wo7AzbL8VQEeLlqFr4GjvMAXKkI8MLxKQ7g4izidGcqAgRWZGOLON3JBPAUWOypCNCxPDM6H9LIzkBRxoJUAwjDQcwJNTIB/l+e/glPTP/lk8D0aDlJAIw6Pyc0II1MAP+SWR/wAHpP7TMf4EI9ATBUOZfQgDQyAVDw7ER3w3fmAzTtIgAG1+fhOxDbRkTXgU1xswCef7/afICDGwiA0No5uAa3EIBnJzo3LjEf4McVZBVeM16FuTYCywDTTvgcs80H2LqQAOjBqrDKsxHYGuDaifDgK+p9fY4c6vUJV+GvZ+JrgG0jMACunRjxe6gA/oqFpgAESrJwAJfMI1TFAxh6eI8K0LWtxBQAP1aFkTYhgMhODP51kwrw4qdKUwDUwvG5uDYimgGBnQhdb6YCvGpvAcFfDugGuHpUfhypJsSPVZFVmGsjtBDZib7moxJbSZzxRyMBMBxThbk2QguRneg58bN5AOf3x1ThXGM2QguunaivMQ/gxA4CYGDdZ8ZshBZcO7G7zDyAA+sJgD6yFxbbiGgGeHaiapl5AD/YySpcivXCMjYCywDXTvT93iQ9wI2z+tHTRQfY+hUB0L1yJn5vsY2IZiCJpxPU/d3/TC9+MKS7rquEaObFNgIDSNrpBBVgIKgH6PLoq7A9EwdwGXmEuHbi5cHtuoLVe7oBVs0MMUDNlwCEw3oA933dtT5yPrGN0EJoJ/5uoz7CHaXzxAC1hfTn/14bWYU35RPzSNmIaAYEdmLgxm9UDYHNNjFA3Vo6QPvlmCoc82HI2AgthHbi4jGqhv5rv4LODYvYAC7YbbVdpAO0nCKufV2RR8wjZSO0EJ5ONO6hi3gXw08fgOC5wyBQbQVgX9nboxLvI+7fgOYGZhVGI+DI/lAaAMV7txMxpxF95bPjsxFaqO/7dCLmNKK3lOiF5W3EeAaUOyyATufS5AO4yNMIvAojLfFkgPuyAy3W3qa94PW/t0F4ZNi44LExADwPAPgTLt76byhVOBu/n7yNGM+AvJ3oWJUHuuu2RLq1sZ7nbNGoAv9zC4AzsKfYuZTbSnbaiWZe3kZgAPHZiaKsyBpBB8EjnsfQ9zwFoBUauENOALZ8Id0L+4oUHMBlGEAV2AnZEU8jH46pwqoRG4FloHgiAEar8kF/OXEeijJQbDwDSXrZISN6ZOO8yL4fs3Cxx9KAjdBCZCcSAQh/mx+xCmivxy0zaxiyEVo8WpY+RbVaauEe3A6/DicKgN60hNbNiezvPort1g14z3f3rkVaDAPgEfFGhZbFcLI6+DzeNQIQXJ0DAsVZste7VavSCPsKx7Oi6R8lJJoX/9kzp3kLLOUQ6JJqs3THmx3YqPd7rUqrtzCjxm9TPjZNMC+AI21SR0FmLkz3LiQGQg2xBSujkQzCTKKM3q3MnTwhonnhdsyYiron+Okei/z3Cxzoe/Qz9Ltk3+8NNwCil2rBvCcAAAAASUVORK5CYII=" alt="" />
                                 <span style="color:  white;">Html</span>
                             </div>
                         </div>
