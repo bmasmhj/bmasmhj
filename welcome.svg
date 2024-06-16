@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 750" width="600" height="750" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 800" width="600" height="800" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
   <body xmlns="http://www.w3.org/1999/xhtml">
   <style>
@@ -192,8 +192,23 @@
                         </div>
                         <div class=" mb-5 d-flex flex-column justify-content-center align-items-center">
                             <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-                                <img  width="30" height="30" src="http://bimash.com.np/assets/img/skills/css3.svg" alt="" />
+                                <img  width="30" height="30" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFS0lEQVRogc2abUxbVRiASYzxhyb6xxh/UKBDNxBRh1nix9SocT+MmhmJmuhmW1b5GI5tMtiYwqbZ0CiJwbR0fmRLtkmY95aPrRuUoqOWyboRQIYDiwMcThy6sVUcA3Y895Lbe05777nn0F7pm5xAINzzPvd8vM85JSEBiSQzF0wy8yC+GxdMUAv4y8DiJ6gJECAB+BY/QU0AnyqAwczzse7w4fc6om5pG1pCzxNyVAcwcfZ4BFhaeFQGgDmqTyETVxGPAPfkHZGfCXMkrAE+Nx4BlrzdiD4zlzQCq+MRIDmnHh2B1epr4C3no/EH4IPPccprAOaoCpC4hl9CSqbm6CDQO2o8oxjAQ9u8WA5CjqoAd73RfCsJYGdtr+4AuxqHMIAHSo5jOQg5qgLML2R1nVhfc1J3gHcPnsUA7i9uQ3IgaIQMwA+pAWRXtusOYNrzEwaQsbkVzWGIAkBdJ57c2qI7wItVpzGAdKQKEzVCCpJOpOc16g6w8oMfMYBlaBUmaUQIIAY6kVHQBLbu6wK9w5eokp6cmgG8/w/wpr0nsgrny1WYqBGhKbRAnUixOMEru4+DA9+fA1PTs5pJz83dAJ2By6C0dgA8UnGCUIWb0CJWQQHA57EkvmKTC1Qe6gPD40Gqt/3rn1OgumUEPFfppypkKevQKszn0YyApk6kWuuB5bMOcNh/HszANxnNFNGqwslo3ySNCK0BDZ0o/vo0+PvqNNXbFuLcxSmw3/c72Nt+XrMV7f8ZA1he9gPWN1EjpNDSCduRAerkWcPWOoIBPFjSTq8RUmjpxI5v9NOJD+sDGEBm8XdsGhFaBwSdKHTopxMbw6ZQxiYPm0bIAOo68drHXt0A1jp68Spc5GbTCGQEVHXimTK3bgAvfIprxLLCY2waIYWWTthcA9RNabcZn1TexR7biWvEvQUuNo0IAcTwdkJpfxeKWXgEr80SqzCVRoSmUAxvJ5QALv0zEwEwOvGvQhVuYNMIGYCsE0Vf+EV9QFvp3i4qgBXlJ4BS8e4euRJ5mLc4EQAKjUBGgKgTnp4LEQkIApeCdqgCsOojv+L895yZIFZhKo2QQksnatuHFZN4fMsxTYDXP+9W/NtDnRfwKlyKV2EqjZBCSyeqm84qJvGVOwCeKG1WBXj+k1PiLqQUjjb8NiJzC16FqTRCCi2dKD/Qo5iEFP2jl0FVfT9Y9X4reLW6G9hbR0H/WBDcIIjr7rDbiIzNHqzPO/PrbqMGEIKkEwX2TiLAQiL8NiJ9I1qFGTRCBvh/byfCbyPSsCrMoBFSwMLRoQbwlA63Ey9VdWEAS9EqDHNhB9D4sGNlSTPYcbAHeM+Mg+szc8wJC2diYV3saftN8aSWmntYBmDRCGQEqHUic30TyLd1igf6i5PXVJMWjpbuvglQzv0Cnt51knicNFob0BGg1wgpFqoTxhynuEbsrkEwOHZF9J593jGw7ss+sQrTnofxKsygETIA2+2EWmM7xM+3rDJfWBVm0IgQgIV/eTEAlm/zgvuwLRQ2mAszQKw+7KBJWtAGYd+fX7iRPsWkEVJo6UQ0AFnbfaIqCHu9EVVmlcakEVKkFrpugdvXdlgF2w0m/nq0AOLUgId04ZSVrGCtEW9d7BP2DXMQcmEGQENwI4Pp22fhYqqEO8IpFoC0d5qBEb3fJDdY/TmHwcJnJ6113hFV0qQwWLm7E03cGghUB9tfC55iJv4q/OpONPMbDDkNKbolTIzsupsMOc4sg5krEZKBQz5NSHpWHEE4ksKIZlkdNy9O0oQwWutuF05PEMg2/98vXED8Hv5M+F2s+/sP8h/2PoAfAVsAAAAASUVORK5CYII=" alt="" />
                                 <span style="color:  white;">CSS</span>
+
+                            </div>
+                        </div>
+                        <div class=" mb-5 d-flex flex-column justify-content-center align-items-center">
+                            <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                                <img  width="30" height="30" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACv0lEQVRoge2a/UtTURjH/ZP2dnfv3t1219y7LhKSWGGFURkkvVqKtkVIRoZRQRYlCRUUGb1B0hs2LMwUw1wrJCKiF7T/4Mnn1J073jtbsLUzOQe+Pz333HM+5z7neb6D1dTwwchYeB9t+JmN9VWDcK8qgD9BqBL1cQAOwAE4AAfgAByAA3AADsABOAAHWJUA2Rch2LpRyqltp03zua9vonDhlBsSTSK4XAaQJB0E6kywp9UKj276Kwcw/SwIBqMuJ9lrUD2TSYegISpQzy1X6pAD5jNR9gDmMzFYFzevuHlFZ3vd7AHcHvJRcaNJB9u3WMiJx2NLX8Uk6CF12MEewJF2BxU/1unMxX7MRqG1xULSa/ROHZt3YO8uGxW/PiBT8c9TEfg2o5n7bAAc7XBS8cR6Eb5MR/5ljcoC3L9K3wGUf40JBs94SGllHgCrUONa7SpUu9gP+ntqSRoxC4DCPhCvL1xKsbFd7PfAwjtGAVCY9x377GA26wuCHGizaUGwAaBoZjREQCSLNsil0x62ARR9nIjAiZSLeKL8+eiPqgJA0dNhv+oroEEsC8CrkQBkx6iXw9iDALV4SH2CcGtQhmS7pk0g8nmN1DsmRoKlBcAyh95FEHTQ0mwhpVGJnT/pVjUqJTb+MACbNoi5WE+XU+U4cbPog/Lf8eFluHQAuHmfTJ9QU6NI6nf3QYcqh493u3Jzk8t8ECoWFqA36SRlE32S3U5vvj5ShjvQtd9elB0WRT3MppdSDDttvuMsRjcuy6UHQLO1e4d1xYVNi+l1bcCrmjs3HobmhPTXjWMa4VfVWL80lxhzd+icl/w4QU+vLCxJeti2WYLndwvaYdKchq/4yP2xWOmUwRTCw0nfCxSaX/oy+ul1BKaeBElT+v62KEOWdxC/rcXk4yCpaAV+RpYX4D9rFQJU/V8N+KjQ+AV3F6NqiZeFzwAAAABJRU5ErkJggg==" alt="" />
+                                <span style="color:  white;">Javascript</span>
+
+                            </div>
+                        </div>
+                        <div class=" mb-5 d-flex flex-column justify-content-center align-items-center">
+                            <div 
+                            style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                                <img  width="30" height="30" src="http://bimash.com.np/assets/img/skills/php.svg" alt="" />
+                                <span style="color:  white;">Node</span>
 
                             </div>
                         </div>
@@ -247,16 +262,16 @@
                         <div class=" mb-5 d-flex flex-column justify-content-center align-items-center">
                             <div 
                             style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-                                <img  width="30" height="30" src="http://bimash.com.np/assets/img/skills/psd.svg" alt="" />
-                                <span style="color:  white;">Photoshop</span>
+                                <img  width="30" height="30" src="http://bimash.com.np/assets/img/skills/github.svg" alt="" />
+                                <span style="color:  white;">Github</span>
 
                             </div>
                         </div>
                         <div class=" mb-5 d-flex flex-column justify-content-center align-items-center">
                             <div 
                             style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-                                <img  width="30" height="30" src="http://bimash.com.np/assets/img/skills/github.svg" alt="" />
-                                <span style="color:  white;">Github</span>
+                                <img  width="30" height="30" src="http://bimash.com.np/assets/img/skills/psd.svg" alt="" />
+                                <span style="color:  white;">Photoshop</span>
 
                             </div>
                         </div>
@@ -268,6 +283,14 @@
 
                             </div>
                         </div>
+                        <div class=" mb-5 d-flex flex-column justify-content-center align-items-center">
+                            <div 
+                            style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                                <img  width="30" height="30" src="http://bimash.com.np/assets/img/skills/aftere.svg" alt="" />
+                                <span style="color:  white;">AdobeXd</span>
+
+                            </div>
+                        </div>
                     </div>
                     <div class="row" data-aos-duration="2000" data-aos="fade-in">
                         <div class="col-md-6 offset-md-3 col-12">
@@ -276,13 +299,13 @@
                                     style="display: flex; justify-content: space-between; padding: 0.5rem;">
 
                                     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-                                        <img  width="30" height="30" src="http://bimash.com.np/assets/img/skills/js.svg" alt="" />
-                                        <span style="color:  white;" >Javascript </span>
+                                        <img  width="30" height="30" src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHdpZHRoPSI1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgZmlsbD0iIzMxNzhjNiIgaGVpZ2h0PSI1MTIiIHJ4PSI1MCIgd2lkdGg9IjUxMiIvPjxyZWN0IGZpbGw9IiMzMTc4YzYiIGhlaWdodD0iNTEyIiByeD0iNTAiIHdpZHRoPSI1MTIiLz48cGF0aCBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Im0zMTYuOTM5IDQwNy40MjR2NTAuMDYxYzguMTM4IDQuMTcyIDE3Ljc2MyA3LjMgMjguODc1IDkuMzg2czIyLjgyMyAzLjEyOSAzNS4xMzUgMy4xMjljMTEuOTk5IDAgMjMuMzk3LTEuMTQ3IDM0LjE5Ni0zLjQ0MiAxMC43OTktMi4yOTQgMjAuMjY4LTYuMDc1IDI4LjQwNi0xMS4zNDIgOC4xMzgtNS4yNjYgMTQuNTgxLTEyLjE1IDE5LjMyOC0yMC42NXM3LjEyMS0xOS4wMDcgNy4xMjEtMzEuNTIyYzAtOS4wNzQtMS4zNTYtMTcuMDI2LTQuMDY5LTIzLjg1N3MtNi42MjUtMTIuOTA2LTExLjczOC0xOC4yMjVjLTUuMTEyLTUuMzE5LTExLjI0Mi0xMC4wOTEtMTguMzg5LTE0LjMxNXMtMTUuMjA3LTguMjEzLTI0LjE4LTExLjk2N2MtNi41NzMtMi43MTItMTIuNDY4LTUuMzQ1LTE3LjY4NS03LjktNS4yMTctMi41NTYtOS42NTEtNS4xNjMtMTMuMzAzLTcuODIyLTMuNjUyLTIuNjYtNi40NjktNS40NzYtOC40NTEtOC40NDgtMS45ODItMi45NzMtMi45NzQtNi4zMzYtMi45NzQtMTAuMDkxIDAtMy40NDEuODg3LTYuNTQ0IDIuNjYxLTkuMzA4czQuMjc4LTUuMTM2IDcuNTEyLTcuMTE4YzMuMjM1LTEuOTgxIDcuMTk5LTMuNTIgMTEuODk0LTQuNjE1IDQuNjk2LTEuMDk1IDkuOTEyLTEuNjQyIDE1LjY1MS0xLjY0MiA0LjE3MyAwIDguNTgxLjMxMyAxMy4yMjQuOTM4IDQuNjQzLjYyNiA5LjMxMiAxLjU5MSAxNC4wMDggMi44OTQgNC42OTUgMS4zMDQgOS4yNTkgMi45NDcgMTMuNjk0IDQuOTI4IDQuNDM0IDEuOTgyIDguNTI5IDQuMjc2IDEyLjI4NSA2Ljg4NHYtNDYuNzc2Yy03LjYxNi0yLjkyLTE1LjkzNy01LjA4NC0yNC45NjItNi40OTJzLTE5LjM4MS0yLjExMi0zMS4wNjYtMi4xMTJjLTExLjg5NSAwLTIzLjE2MyAxLjI3OC0zMy44MDUgMy44MzNzLTIwLjAwNiA2LjU0NC0yOC4wOTMgMTEuOTY3Yy04LjA4NiA1LjQyNC0xNC40NzYgMTIuMzMzLTE5LjE3MSAyMC43MjktNC42OTUgOC4zOTUtNy4wNDMgMTguNDMzLTcuMDQzIDMwLjExNCAwIDE0LjkxNCA0LjMwNCAyNy42MzggMTIuOTEyIDM4LjE3MiA4LjYwNyAxMC41MzMgMjEuNjc1IDE5LjQ1IDM5LjIwNCAyNi43NTEgNi44ODYgMi44MTYgMTMuMzAzIDUuNTc5IDE5LjI1IDguMjkxczExLjA4NiA1LjUyOCAxNS40MTUgOC40NDhjNC4zMyAyLjkyIDcuNzQ3IDYuMTAxIDEwLjI1MiA5LjU0MyAyLjUwNCAzLjQ0MSAzLjc1NiA3LjM1MiAzLjc1NiAxMS43MzMgMCAzLjIzMy0uNzgzIDYuMjMxLTIuMzQ4IDguOTk1cy0zLjkzOSA1LjE2Mi03LjEyMSA3LjE5Ni03LjE0NyAzLjYyNC0xMS44OTQgNC43NzFjLTQuNzQ4IDEuMTQ4LTEwLjMwMyAxLjcyMS0xNi42NjggMS43MjEtMTAuODUxIDAtMjEuNTk3LTEuOTAzLTMyLjI0LTUuNzEtMTAuNjQyLTMuODA2LTIwLjUwMi05LjUxNi0yOS41NzktMTcuMTN6bS04NC4xNTktMTIzLjM0Mmg2NC4yMnYtNDEuMDgyaC0xNzl2NDEuMDgyaDYzLjkwNnYxODIuOTE4aDUwLjg3NHoiIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" alt="" />
+                                        <span style="color:  white;" >TypeScript </span>
                                     </div>
 
                                     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
                                         <img  width="30" height="30" src="http://bimash.com.np/assets/img/skills/react.svg" alt="" />
-                                        <span style="color:  white;" >React.Js </span>
+                                        <span style="color:  white;" >React.Js</span>
                                     </div>
 
                                     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
@@ -292,7 +315,7 @@
 
                                     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
                                         <img  width="30" height="30" src="http://bimash.com.np/assets/img/skills/xd.svg" alt="" />
-                                        <span style="color:  white;" >AdobeXd </span>
+                                        <span style="color:  white;" >Tailwind</span>
                                     </div>
                                 </div>
                             </div>
