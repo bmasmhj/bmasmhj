@@ -50,17 +50,17 @@
           .shape-blob.one {
               height: 100px;
               width: 104px;
-              left: -43px;
-              top: -23px;
+              left: 10px;
+              top: 10px;
               transform: rotate(-180deg);
               animation: transform 30s ease-in-out infinite both alternate, movement_two 60s ease-in-out infinite both;
           }
   
           .shape-blob.two {
-              left: 65%;
+              left: 80%;
               height: 100px;
               width: 100px;
-              top: -11px;
+              top: 11px;
               transform: rotate(-180deg);
               animation: transform 30s ease-in-out infinite both alternate, movement_two 60s ease-in-out infinite both;
           }
