@@ -172,7 +172,7 @@
               <div class="shape-blob two"></div>
           </div>
           <div
-              style="width:80%;  margin:auto; display: flex; flex-direction : column; justify-content: center; align-items: center;">
+              style="width:90%;  margin:auto; display: flex; flex-direction : column; justify-content: center; align-items: center;">
               <div class="card" style=" box-shadow: 0 8px 26px -4px hsla(0, 0%, 8%, .15), 0 8px 9px -5px hsla(0, 0%, 8%, .06)">
                   <h1 style="margin-bottom: 0.5rem;">Bimash Maharjan</h1>
                   <h3 style="margin-bottom: 0.5rem;">Just a normal guy : Frontend Developer</h3>
