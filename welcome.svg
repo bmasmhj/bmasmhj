@@ -24,7 +24,6 @@
               padding: 3rem;
               margin-top: 3rem !important;
               justify-content: center !important;
-              box-shadow: 0 8px 26px -4px hsla(0, 0%, 8%, .15), 0 8px 9px -5px hsla(0, 0%, 8%, .06) !important;
               -webkit-backdrop-filter: saturate(200%) blur(30px);
               backdrop-filter: saturate(200%) blur(30px);
           }
@@ -174,7 +173,7 @@
           </div>
           <div
               style="width:80%;  margin:auto; display: flex; flex-direction : column; justify-content: center; align-items: center;">
-              <div class="card">
+              <div class="card" style=" box-shadow: 0 8px 26px -4px hsla(0, 0%, 8%, .15), 0 8px 9px -5px hsla(0, 0%, 8%, .06)">
                   <h1 style="margin-bottom: 0.5rem;">Bimash Maharjan</h1>
                   <h3 style="margin-bottom: 0.5rem;">Just a normal guy : Frontend Developer</h3>
                   <p class="lead"><q>If you only do what you can do, you'll never be better than what you are.</q></p>
