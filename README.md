@@ -1,8 +1,6 @@
 <img src="./welcome.svg" width='100%' />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bmasmhj&show_icons=true&locale=en&layout=compact" alt="bmasmhj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bmasmhj&show_icons=true&locale=en" alt="bmasmhj" /></p>
 <p align="left">  </p>
 <h3 align="left">My Products: </h3>
 <a href="https://qr.byteperks.com/" target="blank"><img align="center" src="./quickqr.svg" alt="mhrznjuman" height="80" width="240" /></a>&nbsp;
